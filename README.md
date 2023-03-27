@@ -1,0 +1,7 @@
+# MyFirstKotlinCRUD
+
+## Package
+```
+./gradlew run
+```
+
